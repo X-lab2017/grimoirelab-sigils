@@ -29,7 +29,7 @@
     ],
     "searches": [
         {
-            "id": "Search:gittee_pull_request:false",
+            "id": "Search:gitee_pull_request:false",
             "value": {
                 "columns": [
                     "_source"
